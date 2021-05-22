@@ -5,7 +5,7 @@ This projects explors the different fraud detection methods:
 ### Supervised methods such as:
 Random forest classifier
 
-### Unsupervised methods 
+### Unsupervised methods:
 Computing the Z-score
 ##### Proximity/Distance based methods
 KNN 
