@@ -15,5 +15,6 @@ Local Outlier Factor (LOF)
 DBSCAN
 #### other methods 
 Isolation forest
+
 autoencoder
 
